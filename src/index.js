@@ -82,3 +82,4 @@ export default class EJLaTeX {
         head.appendChild(css);
     }
 }
+module.exports = EJLaTeX;
