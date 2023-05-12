@@ -97,3 +97,4 @@ var EJLaTeX = /*#__PURE__*/function () {
   return EJLaTeX;
 }();
 exports["default"] = EJLaTeX;
+module.exports = EJLaTeX;
